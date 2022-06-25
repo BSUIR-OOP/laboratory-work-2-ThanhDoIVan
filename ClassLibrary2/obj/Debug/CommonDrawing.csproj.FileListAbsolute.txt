@@ -1,0 +1,6 @@
+C:\Users\thanh\OneDrive\Рабочий стол\Новая папка\laboratory-work-2-RrraR-main\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\thanh\OneDrive\Рабочий стол\Новая папка\laboratory-work-2-RrraR-main\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\thanh\OneDrive\Рабочий стол\Новая папка\laboratory-work-2-RrraR-main\ClassLibrary2\obj\Debug\CommonDrawing.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Рабочий стол\Новая папка\laboratory-work-2-RrraR-main\ClassLibrary2\obj\Debug\CommonDrawing.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Рабочий стол\Новая папка\laboratory-work-2-RrraR-main\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\thanh\OneDrive\Рабочий стол\Новая папка\laboratory-work-2-RrraR-main\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
